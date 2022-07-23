@@ -9,4 +9,4 @@ Successfully created a box, working on a maze generation algorithm
 The box looks like dogshit
 
 ### 23.7.22
-Abandoned project.  Fuck you curses module
+Possibly abandoned the project.  Fuck the python curses module
