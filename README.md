@@ -1,12 +1,2 @@
 # Maze-game
-A 2d maze game that runs in the console
-
-# Completion status
-
-### 15.6.22
-Successfully created a box, working on a maze generation algorithm
-
-The box looks like dogshit
-
-### 23.7.22
-Possibly abandoned the project.  Fuck the python curses module
+A 2d maze game that runs in the terminal
